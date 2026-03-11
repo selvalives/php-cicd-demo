@@ -14,9 +14,7 @@ $version = file_get_contents("version.txt");
 
 <p>This page is deployed through Jenkins pipeline.</p>
 
-<p>Application Version:
-<strong><?php echo $version; ?></strong>
-</p>
+
 
 </body>
 </html>
