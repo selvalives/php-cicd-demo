@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DEPLOY_DIR = 'C:\\deployments\\php-demo'
+        DEPLOY_DIR = 'C:\\xampp\\htdocs\\php-demo'
     }
 
     stages {
